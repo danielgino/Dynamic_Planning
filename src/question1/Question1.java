@@ -1,4 +1,6 @@
-public class Main {
+package question1;
+
+public class Question1 {
     public static void main(String[] args) {
         int[] original = {12, 5, 18, 7, 19, 8, 10};
         int n = original.length;
