@@ -1,5 +1,5 @@
 # Longest Increasing Subsequence (LIS) - Dynamic Programming Solution
-
+# Question 1
 ##  Problem Description
 Given an array `V` of size `n` containing natural numbers, find the **length of the longest increasing subsequence (LIS)**.  
 The subsequence does **not** have to be contiguous — only strictly increasing.
